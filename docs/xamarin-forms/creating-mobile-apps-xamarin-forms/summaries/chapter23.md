@@ -1,5 +1,5 @@
 ---
-title: 章 23 的摘要。 触发器和行为
+title: 23章摘要触发器和行为
 ms.prod: xamarin
 ms.technology: xamarin-forms
 ms.assetid: 19E84B5D-46B4-4B6D-A255-87BEFB011261
